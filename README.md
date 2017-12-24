@@ -26,4 +26,11 @@ pyspark --packages datastax:spark-cassandra-connector:2.0.0-s_2.11 \
 --conf spark.cassandra.connection.host=127.0.0.1  
 8. To get the IP_ADDRESS of VM, type: ifconfig in the terminal.  
 
+### Cassandra
+To run cassandra database follow these steps:  
+1. Login as root user.  
+2. Run: /usr/local/lib/apache-cassandra-3.10/bin/cassandra -R  
+3. To access cqlsh: /usr/local/lib/apache-cassandra-3.10/bin/cqlsh  
+4. Rest of the instructions are available in the python notebooks.  
+
 Follow further instructions given in the directories to run this project.  
