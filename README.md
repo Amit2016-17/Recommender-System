@@ -6,7 +6,7 @@
 ### 3. Speed Layer  
 
 To get the OVA file, follow the link given below.  
-https://www.dropbox.com/s/2ic8pz64hiab8o2/BDM.ova?dl=0  
+https://drive.google.com/open?id=1paASmSftbf2hcrWD0FBYdt0iloqkJihO  
 
 Follow these steps to start the VM.  
 1. Import the appliance as an Ubuntu 64-bit OS in Oracle VMWare.  
